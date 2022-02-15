@@ -1,0 +1,17 @@
+- Criar uma pasta local
+- Abrir a pasta e clicar com o botão direito do mouse em GitBash Here (nesse momento o terminal do git é aberto automaticamente).
+- git init (Inicia o repositório git).
+- Criar normalmente os arquivos e salvar dentro da pasta local.
+- Criar o arquivo .gitignore --> touch .gitignore
+- Escrever dentro do arquivo .gitignore, que foi criado, o nome com a extensão do arquivo que você queira ignorar.
+- git add .
+- git commit -m "Frase"
+- git config --global user.email "email do github"
+- git config --global user.name "usuario do github"
+- Criar um repositório no Github
+- Copiar o comando git remote origin 
+- Colar (com o botão direito do mouse) o comando copiado.
+- git commit -m "Frase"
+- git push origin master
+
+
